@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="city_country">Chennai, India</string>
+    <string name="date_today">Wednesday, 23 May</string>
+    <string name="current_temperature">33</string>
+    <string name="weather_information">Partly Cloud</string>
+    <string name="temp_information">26, partly cloudy</string>
+    <string name="wind">WIND</string>
+    <string name="wind_speed">18 km/h</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="humidity_rate">73%</string>
+    <string name="day_of_week">Mon</string>
+</resources>
