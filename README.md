@@ -1,6 +1,9 @@
 # AndroidWeatherApp
 
-Sample android application which detects the current location and provide you the weather informations
+Sample android application which detects the current location and provide you the weather informations.
+
+Please visit my Stackoverflow Account here: https://stackoverflow.com/users/3748302/remees-m-syde
+
 
 Screen Shot Links:
 
